@@ -3,7 +3,7 @@
 面向 Artiq 的品牌升级与增长策略案例研究，含可交互的 Digital Gallery 产品原型。
 
 - `index.html` — 案例研究主页（中／英双语，键盘 ↑↓ 或滚轮翻页）
-- `03_DigitalGallery_demo.html` — Digital Gallery 可交互原型
+- `DigitalGallery_demo.html` — Digital Gallery 可交互原型
 
 
 ## 说明
